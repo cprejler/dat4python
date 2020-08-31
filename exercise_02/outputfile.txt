@@ -1,0 +1,270 @@
+# dat4python
+
+## Template skeleton
+
+# c-ares license
+
+# Licensing terms
+
+## About the Jupyter Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) Jupyter Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+# Licensing terms
+
+## About the Jupyter Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) Jupyter Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+## Title here
+
+# Licensing terms
+
+## About the IPython Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) IPython Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+# Licensing terms
+
+## About the IPython Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) IPython Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+## COMPILING & TESTING
+
+## AUTHOR
+
+## LICENSE
+
+## RELEASE HISTORY
+
+# Licensing terms
+
+## About the IPython Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) IPython Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+# Licensing terms
+
+## About the IPython Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) IPython Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+# PLY (Python Lex-Yacc)                   Version 3.11
+
+    # -----------------------------------------------------------------------------
+
+    # calc.py
+
+    #
+
+    # A simple calculator with variables.
+
+    # -----------------------------------------------------------------------------
+
+    # Tokens
+
+    # Ignored characters
+
+    # Build the lexer
+
+    # Precedence rules for the arithmetic operators
+
+    # dictionary of names (for storing variables)
+
+            s = raw_input('calc > ')   # use input() on Python 3
+
+# The Jupyter licensing terms
+
+## About the Jupyter Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) Jupyter Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+# The Jupyter licensing terms
+
+## About the Jupyter Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) Jupyter Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+# Licensing terms
+
+## About the Jupyter Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) Jupyter Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+# Licensing terms
+
+## About the Jupyter Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) Jupyter Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+# Licensing terms
+
+## About the IPython Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) IPython Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+From http://pyqt.sourceforge.net/Docs/sip4/using.html#a-simple-c-example
+
+From http://pyqt.sourceforge.net/Docs/sip4/using.html#a-simple-c-example
+
+# Licensing terms
+
+## About the Jupyter Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) Jupyter Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+# Licensing terms
+
+## About the Jupyter Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) Jupyter Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+# Licensing terms
+
+## About the Jupyter Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) Jupyter Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+# Licensing terms
+
+## About the IPython Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) IPython Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+# Licensing terms
+
+## About the Jupyter Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) Jupyter Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+## Template skeleton
+
+# The Jupyter licensing terms
+
+## About the Jupyter Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) Jupyter Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+# Licensing terms
+
+## About the Jupyter Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) Jupyter Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+# Licensing terms
+
+## About the IPython Development Team
+
+## Our Copyright Policy
+
+    # Copyright (c) IPython Development Team.
+
+    # Distributed under the terms of the Modified BSD License.
+
+## COMPILING & TESTING
+
+## AUTHOR
+
+## LICENSE
+
+## RELEASE HISTORY
+
+# How to use this repo
+
+### Compose
+
+### Flask
+
+### Development with VSCode inside the container context
+
+  - see: https://code.visualstudio.com/docs/remote/containers#_creating-a-devcontainerjson-file
+
+### Mysql server
+
+### Flask server
+
+### clean up
+
+### If not using compose:
+
+### Course content
+
+|Week 43<br/>|TBD|Database and web service|[](https://docs.google.com/spreadsheets/d/10HYM2KRqslBTQjkcz8B0ooz4TnnXd4n5xxFsSl9saZQ/edit#gid=0)|
+
+## import python module from sibling folder
+
+#### reference: https://needone.app/python-importing-explained/
+
