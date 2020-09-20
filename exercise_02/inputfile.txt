@@ -1,2 +1,4 @@
 this is a test from the command line
 This is another test from the command line
+hello
+hello world
