@@ -12,4 +12,5 @@ https://mybinder.org/v2/gh/cprejler/dat4python/master?filepath=%2Fexercise_02%2F
 
 Week 3:
 
+https://mybinder.org/v2/gh/cprejler/dat4python/master?filepath=exercise_03
 
