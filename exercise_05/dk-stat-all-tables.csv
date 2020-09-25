@@ -1,0 +1,6 @@
+dataset
+"{'ContentsCode': {'label': 'Indhold', 'category': {'index': {'FOLK1A': 0}, 'label': {'FOLK1A': 'Folketal den 1. i kvartalet'}, 'unit': {'FOLK1A': {'base': 'antal', 'decimals': 0}}}}, 'Tid': {'label': 'tid', 'category': {'index': {'2020K3': 0}, 'label': {'2020K3': '2020K3'}}}, 'id': ['ContentsCode', 'Tid'], 'size': [1, 1], 'role': {'metric': ['ContentsCode'], 'time': ['Tid']}}"
+Folketal den 1. i kvartalet efter Indhold og tid
+Danmarks Statistik
+2020-08-11T06:00:00Z
+[5825337]
