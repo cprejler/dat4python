@@ -1,0 +1,526 @@
+﻿OMRÅDE;CIVILSTAND;TID;INDHOLD
+Hele landet;Ugift;2020K3;2854659
+Hele landet;I alt;2020K3;5825337
+Hele landet;Gift/separeret;2020K3;2132092
+Hele landet;Enke/enkemand;2020K3;287871
+Hele landet;Fraskilt;2020K3;550715
+Region Hovedstaden;Ugift;2020K3;977487
+Region Hovedstaden;I alt;2020K3;1847289
+Region Hovedstaden;Gift/separeret;2020K3;616603
+Region Hovedstaden;Enke/enkemand;2020K3;76327
+Region Hovedstaden;Fraskilt;2020K3;176872
+København;Ugift;2020K3;414218
+København;I alt;2020K3;633035
+København;Gift/separeret;2020K3;149291
+København;Enke/enkemand;2020K3;14502
+København;Fraskilt;2020K3;55024
+Frederiksberg;Ugift;2020K3;60802
+Frederiksberg;I alt;2020K3;104118
+Frederiksberg;Gift/separeret;2020K3;28951
+Frederiksberg;Enke/enkemand;2020K3;4204
+Frederiksberg;Fraskilt;2020K3;10161
+Dragør;Ugift;2020K3;5866
+Dragør;I alt;2020K3;14515
+Dragør;Gift/separeret;2020K3;6535
+Dragør;Enke/enkemand;2020K3;878
+Dragør;Fraskilt;2020K3;1236
+Tårnby;Ugift;2020K3;19945
+Tårnby;I alt;2020K3;42785
+Tårnby;Gift/separeret;2020K3;16466
+Tårnby;Enke/enkemand;2020K3;2233
+Tårnby;Fraskilt;2020K3;4141
+Albertslund;Ugift;2020K3;13726
+Albertslund;I alt;2020K3;27543
+Albertslund;Gift/separeret;2020K3;9915
+Albertslund;Enke/enkemand;2020K3;1157
+Albertslund;Fraskilt;2020K3;2745
+Ballerup;Ugift;2020K3;22667
+Ballerup;I alt;2020K3;48916
+Ballerup;Gift/separeret;2020K3;18409
+Ballerup;Enke/enkemand;2020K3;2754
+Ballerup;Fraskilt;2020K3;5086
+Brøndby;Ugift;2020K3;16299
+Brøndby;I alt;2020K3;35112
+Brøndby;Gift/separeret;2020K3;13215
+Brøndby;Enke/enkemand;2020K3;1907
+Brøndby;Fraskilt;2020K3;3691
+Gentofte;Ugift;2020K3;35169
+Gentofte;I alt;2020K3;74773
+Gentofte;Gift/separeret;2020K3;28803
+Gentofte;Enke/enkemand;2020K3;3404
+Gentofte;Fraskilt;2020K3;7397
+Gladsaxe;Ugift;2020K3;34752
+Gladsaxe;I alt;2020K3;69109
+Gladsaxe;Gift/separeret;2020K3;24526
+Gladsaxe;Enke/enkemand;2020K3;2984
+Gladsaxe;Fraskilt;2020K3;6847
+Glostrup;Ugift;2020K3;11386
+Glostrup;I alt;2020K3;23322
+Glostrup;Gift/separeret;2020K3;8324
+Glostrup;Enke/enkemand;2020K3;1186
+Glostrup;Fraskilt;2020K3;2426
+Herlev;Ugift;2020K3;13810
+Herlev;I alt;2020K3;28933
+Herlev;Gift/separeret;2020K3;10498
+Herlev;Enke/enkemand;2020K3;1565
+Herlev;Fraskilt;2020K3;3060
+Hvidovre;Ugift;2020K3;26581
+Hvidovre;I alt;2020K3;53422
+Hvidovre;Gift/separeret;2020K3;19145
+Hvidovre;Enke/enkemand;2020K3;2480
+Hvidovre;Fraskilt;2020K3;5216
+Høje-Taastrup;Ugift;2020K3;23728
+Høje-Taastrup;I alt;2020K3;50923
+Høje-Taastrup;Gift/separeret;2020K3;20155
+Høje-Taastrup;Enke/enkemand;2020K3;2283
+Høje-Taastrup;Fraskilt;2020K3;4757
+Ishøj;Ugift;2020K3;10873
+Ishøj;I alt;2020K3;23018
+Ishøj;Gift/separeret;2020K3;8859
+Ishøj;Enke/enkemand;2020K3;970
+Ishøj;Fraskilt;2020K3;2316
+Lyngby-Taarbæk;Ugift;2020K3;27764
+Lyngby-Taarbæk;I alt;2020K3;56046
+Lyngby-Taarbæk;Gift/separeret;2020K3;20232
+Lyngby-Taarbæk;Enke/enkemand;2020K3;2731
+Lyngby-Taarbæk;Fraskilt;2020K3;5319
+Rødovre;Ugift;2020K3;20198
+Rødovre;I alt;2020K3;40848
+Rødovre;Gift/separeret;2020K3;14299
+Rødovre;Enke/enkemand;2020K3;2054
+Rødovre;Fraskilt;2020K3;4297
+Vallensbæk;Ugift;2020K3;7318
+Vallensbæk;I alt;2020K3;16510
+Vallensbæk;Gift/separeret;2020K3;7194
+Vallensbæk;Enke/enkemand;2020K3;717
+Vallensbæk;Fraskilt;2020K3;1281
+Allerød;Ugift;2020K3;10605
+Allerød;I alt;2020K3;25637
+Allerød;Gift/separeret;2020K3;11820
+Allerød;Enke/enkemand;2020K3;1212
+Allerød;Fraskilt;2020K3;2000
+Egedal;Ugift;2020K3;18396
+Egedal;I alt;2020K3;43424
+Egedal;Gift/separeret;2020K3;19668
+Egedal;Enke/enkemand;2020K3;1936
+Egedal;Fraskilt;2020K3;3424
+Fredensborg;Ugift;2020K3;17247
+Fredensborg;I alt;2020K3;40971
+Fredensborg;Gift/separeret;2020K3;17534
+Fredensborg;Enke/enkemand;2020K3;1969
+Fredensborg;Fraskilt;2020K3;4221
+Frederikssund;Ugift;2020K3;18645
+Frederikssund;I alt;2020K3;45425
+Frederikssund;Gift/separeret;2020K3;18964
+Frederikssund;Enke/enkemand;2020K3;2792
+Frederikssund;Fraskilt;2020K3;5024
+Furesø;Ugift;2020K3;17505
+Furesø;I alt;2020K3;41011
+Furesø;Gift/separeret;2020K3;17818
+Furesø;Enke/enkemand;2020K3;2150
+Furesø;Fraskilt;2020K3;3538
+Gribskov;Ugift;2020K3;16036
+Gribskov;I alt;2020K3;41135
+Gribskov;Gift/separeret;2020K3;17797
+Gribskov;Enke/enkemand;2020K3;2525
+Gribskov;Fraskilt;2020K3;4777
+Halsnæs;Ugift;2020K3;12777
+Halsnæs;I alt;2020K3;31537
+Halsnæs;Gift/separeret;2020K3;12999
+Halsnæs;Enke/enkemand;2020K3;1994
+Halsnæs;Fraskilt;2020K3;3767
+Helsingør;Ugift;2020K3;27327
+Helsingør;I alt;2020K3;62966
+Helsingør;Gift/separeret;2020K3;24424
+Helsingør;Enke/enkemand;2020K3;3550
+Helsingør;Fraskilt;2020K3;7665
+Hillerød;Ugift;2020K3;23416
+Hillerød;I alt;2020K3;51234
+Hillerød;Gift/separeret;2020K3;20533
+Hillerød;Enke/enkemand;2020K3;2437
+Hillerød;Fraskilt;2020K3;4848
+Hørsholm;Ugift;2020K3;9648
+Hørsholm;I alt;2020K3;24814
+Hørsholm;Gift/separeret;2020K3;10739
+Hørsholm;Enke/enkemand;2020K3;1673
+Hørsholm;Fraskilt;2020K3;2754
+Rudersdal;Ugift;2020K3;24684
+Rudersdal;I alt;2020K3;56623
+Rudersdal;Gift/separeret;2020K3;23570
+Rudersdal;Enke/enkemand;2020K3;3236
+Rudersdal;Fraskilt;2020K3;5133
+Bornholm;Ugift;2020K3;16066
+Bornholm;I alt;2020K3;39497
+Bornholm;Gift/separeret;2020K3;15878
+Bornholm;Enke/enkemand;2020K3;2838
+Bornholm;Fraskilt;2020K3;4715
+Christiansø;Ugift;2020K3;33
+Christiansø;I alt;2020K3;87
+Christiansø;Gift/separeret;2020K3;42
+Christiansø;Enke/enkemand;2020K3;6
+Christiansø;Fraskilt;2020K3;6
+Region Sjælland;Ugift;2020K3;370346
+Region Sjælland;I alt;2020K3;837834
+Region Sjælland;Gift/separeret;2020K3;327414
+Region Sjælland;Enke/enkemand;2020K3;48736
+Region Sjælland;Fraskilt;2020K3;91338
+Greve;Ugift;2020K3;21065
+Greve;I alt;2020K3;50520
+Greve;Gift/separeret;2020K3;22005
+Greve;Enke/enkemand;2020K3;2611
+Greve;Fraskilt;2020K3;4839
+Køge;Ugift;2020K3;27447
+Køge;I alt;2020K3;61184
+Køge;Gift/separeret;2020K3;24264
+Køge;Enke/enkemand;2020K3;3119
+Køge;Fraskilt;2020K3;6354
+Lejre;Ugift;2020K3;11637
+Lejre;I alt;2020K3;28107
+Lejre;Gift/separeret;2020K3;12527
+Lejre;Enke/enkemand;2020K3;1438
+Lejre;Fraskilt;2020K3;2505
+Roskilde;Ugift;2020K3;41580
+Roskilde;I alt;2020K3;88456
+Roskilde;Gift/separeret;2020K3;34214
+Roskilde;Enke/enkemand;2020K3;4221
+Roskilde;Fraskilt;2020K3;8441
+Solrød;Ugift;2020K3;10065
+Solrød;I alt;2020K3;23347
+Solrød;Gift/separeret;2020K3;10149
+Solrød;Enke/enkemand;2020K3;1047
+Solrød;Fraskilt;2020K3;2086
+Faxe;Ugift;2020K3;15681
+Faxe;I alt;2020K3;36647
+Faxe;Gift/separeret;2020K3;14847
+Faxe;Enke/enkemand;2020K3;2082
+Faxe;Fraskilt;2020K3;4037
+Guldborgsund;Ugift;2020K3;25813
+Guldborgsund;I alt;2020K3;60433
+Guldborgsund;Gift/separeret;2020K3;22836
+Guldborgsund;Enke/enkemand;2020K3;4337
+Guldborgsund;Fraskilt;2020K3;7447
+Holbæk;Ugift;2020K3;32366
+Holbæk;I alt;2020K3;71685
+Holbæk;Gift/separeret;2020K3;27753
+Holbæk;Enke/enkemand;2020K3;3863
+Holbæk;Fraskilt;2020K3;7703
+Kalundborg;Ugift;2020K3;21195
+Kalundborg;I alt;2020K3;48374
+Kalundborg;Gift/separeret;2020K3;18386
+Kalundborg;Enke/enkemand;2020K3;3071
+Kalundborg;Fraskilt;2020K3;5722
+Lolland;Ugift;2020K3;17056
+Lolland;I alt;2020K3;40816
+Lolland;Gift/separeret;2020K3;15314
+Lolland;Enke/enkemand;2020K3;3317
+Lolland;Fraskilt;2020K3;5129
+Næstved;Ugift;2020K3;38262
+Næstved;I alt;2020K3;83165
+Næstved;Gift/separeret;2020K3;30785
+Næstved;Enke/enkemand;2020K3;4652
+Næstved;Fraskilt;2020K3;9466
+Odsherred;Ugift;2020K3;13051
+Odsherred;I alt;2020K3;32955
+Odsherred;Gift/separeret;2020K3;13386
+Odsherred;Enke/enkemand;2020K3;2427
+Odsherred;Fraskilt;2020K3;4091
+Ringsted;Ugift;2020K3;16089
+Ringsted;I alt;2020K3;34852
+Ringsted;Gift/separeret;2020K3;13557
+Ringsted;Enke/enkemand;2020K3;1679
+Ringsted;Fraskilt;2020K3;3527
+Slagelse;Ugift;2020K3;37477
+Slagelse;I alt;2020K3;79155
+Slagelse;Gift/separeret;2020K3;28353
+Slagelse;Enke/enkemand;2020K3;4580
+Slagelse;Fraskilt;2020K3;8745
+Sorø;Ugift;2020K3;13306
+Sorø;I alt;2020K3;29872
+Sorø;Gift/separeret;2020K3;11632
+Sorø;Enke/enkemand;2020K3;1683
+Sorø;Fraskilt;2020K3;3251
+Stevns;Ugift;2020K3;9138
+Stevns;I alt;2020K3;22840
+Stevns;Gift/separeret;2020K3;9908
+Stevns;Enke/enkemand;2020K3;1420
+Stevns;Fraskilt;2020K3;2374
+Vordingborg;Ugift;2020K3;19118
+Vordingborg;I alt;2020K3;45426
+Vordingborg;Gift/separeret;2020K3;17498
+Vordingborg;Enke/enkemand;2020K3;3189
+Vordingborg;Fraskilt;2020K3;5621
+Region Syddanmark;Ugift;2020K3;569849
+Region Syddanmark;I alt;2020K3;1222967
+Region Syddanmark;Gift/separeret;2020K3;469934
+Region Syddanmark;Enke/enkemand;2020K3;66709
+Region Syddanmark;Fraskilt;2020K3;116475
+Assens;Ugift;2020K3;17664
+Assens;I alt;2020K3;40903
+Assens;Gift/separeret;2020K3;16764
+Assens;Enke/enkemand;2020K3;2391
+Assens;Fraskilt;2020K3;4084
+Faaborg-Midtfyn;Ugift;2020K3;22137
+Faaborg-Midtfyn;I alt;2020K3;51571
+Faaborg-Midtfyn;Gift/separeret;2020K3;21198
+Faaborg-Midtfyn;Enke/enkemand;2020K3;3194
+Faaborg-Midtfyn;Fraskilt;2020K3;5042
+Kerteminde;Ugift;2020K3;9831
+Kerteminde;I alt;2020K3;23824
+Kerteminde;Gift/separeret;2020K3;10046
+Kerteminde;Enke/enkemand;2020K3;1605
+Kerteminde;Fraskilt;2020K3;2342
+Langeland;Ugift;2020K3;4544
+Langeland;I alt;2020K3;12395
+Langeland;Gift/separeret;2020K3;5248
+Langeland;Enke/enkemand;2020K3;1084
+Langeland;Fraskilt;2020K3;1519
+Middelfart;Ugift;2020K3;16596
+Middelfart;I alt;2020K3;38998
+Middelfart;Gift/separeret;2020K3;16219
+Middelfart;Enke/enkemand;2020K3;2260
+Middelfart;Fraskilt;2020K3;3923
+Nordfyns;Ugift;2020K3;12670
+Nordfyns;I alt;2020K3;29631
+Nordfyns;Gift/separeret;2020K3;12473
+Nordfyns;Enke/enkemand;2020K3;1759
+Nordfyns;Fraskilt;2020K3;2729
+Nyborg;Ugift;2020K3;13827
+Nyborg;I alt;2020K3;31933
+Nyborg;Gift/separeret;2020K3;12757
+Nyborg;Enke/enkemand;2020K3;1989
+Nyborg;Fraskilt;2020K3;3360
+Odense;Ugift;2020K3;112672
+Odense;I alt;2020K3;204718
+Odense;Gift/separeret;2020K3;64848
+Odense;Enke/enkemand;2020K3;9067
+Odense;Fraskilt;2020K3;18131
+Svendborg;Ugift;2020K3;26281
+Svendborg;I alt;2020K3;58261
+Svendborg;Gift/separeret;2020K3;22289
+Svendborg;Enke/enkemand;2020K3;3430
+Svendborg;Fraskilt;2020K3;6261
+Ærø;Ugift;2020K3;2203
+Ærø;I alt;2020K3;5987
+Ærø;Gift/separeret;2020K3;2558
+Ærø;Enke/enkemand;2020K3;545
+Ærø;Fraskilt;2020K3;681
+Billund;Ugift;2020K3;11755
+Billund;I alt;2020K3;26560
+Billund;Gift/separeret;2020K3;11042
+Billund;Enke/enkemand;2020K3;1535
+Billund;Fraskilt;2020K3;2228
+Esbjerg;Ugift;2020K3;55330
+Esbjerg;I alt;2020K3;115650
+Esbjerg;Gift/separeret;2020K3;43404
+Esbjerg;Enke/enkemand;2020K3;5908
+Esbjerg;Fraskilt;2020K3;11008
+Fanø;Ugift;2020K3;1267
+Fanø;I alt;2020K3;3486
+Fanø;Gift/separeret;2020K3;1550
+Fanø;Enke/enkemand;2020K3;263
+Fanø;Fraskilt;2020K3;406
+Fredericia;Ugift;2020K3;23752
+Fredericia;I alt;2020K3;51386
+Fredericia;Gift/separeret;2020K3;19382
+Fredericia;Enke/enkemand;2020K3;2731
+Fredericia;Fraskilt;2020K3;5521
+Haderslev;Ugift;2020K3;24823
+Haderslev;I alt;2020K3;55518
+Haderslev;Gift/separeret;2020K3;21835
+Haderslev;Enke/enkemand;2020K3;3325
+Haderslev;Fraskilt;2020K3;5535
+Kolding;Ugift;2020K3;44969
+Kolding;I alt;2020K3;92995
+Kolding;Gift/separeret;2020K3;34954
+Kolding;Enke/enkemand;2020K3;4377
+Kolding;Fraskilt;2020K3;8695
+Sønderborg;Ugift;2020K3;32180
+Sønderborg;I alt;2020K3;74083
+Sønderborg;Gift/separeret;2020K3;30186
+Sønderborg;Enke/enkemand;2020K3;4628
+Sønderborg;Fraskilt;2020K3;7089
+Tønder;Ugift;2020K3;15764
+Tønder;I alt;2020K3;37174
+Tønder;Gift/separeret;2020K3;15446
+Tønder;Enke/enkemand;2020K3;2377
+Tønder;Fraskilt;2020K3;3587
+Varde;Ugift;2020K3;21706
+Varde;I alt;2020K3;49886
+Varde;Gift/separeret;2020K3;21243
+Varde;Enke/enkemand;2020K3;2884
+Varde;Fraskilt;2020K3;4053
+Vejen;Ugift;2020K3;19353
+Vejen;I alt;2020K3;42805
+Vejen;Gift/separeret;2020K3;17399
+Vejen;Enke/enkemand;2020K3;2404
+Vejen;Fraskilt;2020K3;3649
+Vejle;Ugift;2020K3;55161
+Vejle;I alt;2020K3;116468
+Vejle;Gift/separeret;2020K3;45210
+Vejle;Enke/enkemand;2020K3;5436
+Vejle;Fraskilt;2020K3;10661
+Aabenraa;Ugift;2020K3;25364
+Aabenraa;I alt;2020K3;58735
+Aabenraa;Gift/separeret;2020K3;23883
+Aabenraa;Enke/enkemand;2020K3;3517
+Aabenraa;Fraskilt;2020K3;5971
+Region Midtjylland;Ugift;2020K3;655924
+Region Midtjylland;I alt;2020K3;1327410
+Region Midtjylland;Gift/separeret;2020K3;494774
+Region Midtjylland;Enke/enkemand;2020K3;62767
+Region Midtjylland;Fraskilt;2020K3;113945
+Favrskov;Ugift;2020K3;21843
+Favrskov;I alt;2020K3;48393
+Favrskov;Gift/separeret;2020K3;20595
+Favrskov;Enke/enkemand;2020K3;2226
+Favrskov;Fraskilt;2020K3;3729
+Hedensted;Ugift;2020K3;20335
+Hedensted;I alt;2020K3;46731
+Hedensted;Gift/separeret;2020K3;19924
+Hedensted;Enke/enkemand;2020K3;2482
+Hedensted;Fraskilt;2020K3;3990
+Horsens;Ugift;2020K3;44741
+Horsens;I alt;2020K3;91469
+Horsens;Gift/separeret;2020K3;33973
+Horsens;Enke/enkemand;2020K3;4210
+Horsens;Fraskilt;2020K3;8545
+Norddjurs;Ugift;2020K3;16375
+Norddjurs;I alt;2020K3;36994
+Norddjurs;Gift/separeret;2020K3;14316
+Norddjurs;Enke/enkemand;2020K3;2445
+Norddjurs;Fraskilt;2020K3;3858
+Odder;Ugift;2020K3;9603
+Odder;I alt;2020K3;22888
+Odder;Gift/separeret;2020K3;9815
+Odder;Enke/enkemand;2020K3;1279
+Odder;Fraskilt;2020K3;2191
+Randers;Ugift;2020K3;47342
+Randers;I alt;2020K3;98122
+Randers;Gift/separeret;2020K3;35883
+Randers;Enke/enkemand;2020K3;5237
+Randers;Fraskilt;2020K3;9660
+Samsø;Ugift;2020K3;1291
+Samsø;I alt;2020K3;3651
+Samsø;Gift/separeret;2020K3;1561
+Samsø;Enke/enkemand;2020K3;339
+Samsø;Fraskilt;2020K3;460
+Silkeborg;Ugift;2020K3;44180
+Silkeborg;I alt;2020K3;94648
+Silkeborg;Gift/separeret;2020K3;37238
+Silkeborg;Enke/enkemand;2020K3;4462
+Silkeborg;Fraskilt;2020K3;8768
+Skanderborg;Ugift;2020K3;29040
+Skanderborg;I alt;2020K3;63070
+Skanderborg;Gift/separeret;2020K3;26615
+Skanderborg;Enke/enkemand;2020K3;2546
+Skanderborg;Fraskilt;2020K3;4869
+Syddjurs;Ugift;2020K3;18125
+Syddjurs;I alt;2020K3;43107
+Syddjurs;Gift/separeret;2020K3;18226
+Syddjurs;Enke/enkemand;2020K3;2474
+Syddjurs;Fraskilt;2020K3;4282
+Aarhus;Ugift;2020K3;208470
+Aarhus;I alt;2020K3;349433
+Aarhus;Gift/separeret;2020K3;102228
+Aarhus;Enke/enkemand;2020K3;11744
+Aarhus;Fraskilt;2020K3;26991
+Herning;Ugift;2020K3;42075
+Herning;I alt;2020K3;89411
+Herning;Gift/separeret;2020K3;35628
+Herning;Enke/enkemand;2020K3;4474
+Herning;Fraskilt;2020K3;7234
+Holstebro;Ugift;2020K3;27545
+Holstebro;I alt;2020K3;58685
+Holstebro;Gift/separeret;2020K3;23355
+Holstebro;Enke/enkemand;2020K3;2995
+Holstebro;Fraskilt;2020K3;4790
+Ikast-Brande;Ugift;2020K3;18658
+Ikast-Brande;I alt;2020K3;41395
+Ikast-Brande;Gift/separeret;2020K3;17034
+Ikast-Brande;Enke/enkemand;2020K3;2074
+Ikast-Brande;Fraskilt;2020K3;3629
+Lemvig;Ugift;2020K3;7932
+Lemvig;I alt;2020K3;19662
+Lemvig;Gift/separeret;2020K3;8751
+Lemvig;Enke/enkemand;2020K3;1354
+Lemvig;Fraskilt;2020K3;1625
+Ringkøbing-Skjern;Ugift;2020K3;24244
+Ringkøbing-Skjern;I alt;2020K3;56366
+Ringkøbing-Skjern;Gift/separeret;2020K3;24308
+Ringkøbing-Skjern;Enke/enkemand;2020K3;3323
+Ringkøbing-Skjern;Fraskilt;2020K3;4491
+Skive;Ugift;2020K3;20206
+Skive;I alt;2020K3;45728
+Skive;Gift/separeret;2020K3;18483
+Skive;Enke/enkemand;2020K3;2819
+Skive;Fraskilt;2020K3;4220
+Struer;Ugift;2020K3;8496
+Struer;I alt;2020K3;20951
+Struer;Gift/separeret;2020K3;9098
+Struer;Enke/enkemand;2020K3;1366
+Struer;Fraskilt;2020K3;1991
+Viborg;Ugift;2020K3;45423
+Viborg;I alt;2020K3;96706
+Viborg;Gift/separeret;2020K3;37743
+Viborg;Enke/enkemand;2020K3;4918
+Viborg;Fraskilt;2020K3;8622
+Region Nordjylland;Ugift;2020K3;281053
+Region Nordjylland;I alt;2020K3;589837
+Region Nordjylland;Gift/separeret;2020K3;223367
+Region Nordjylland;Enke/enkemand;2020K3;33332
+Region Nordjylland;Fraskilt;2020K3;52085
+Brønderslev;Ugift;2020K3;16301
+Brønderslev;I alt;2020K3;36295
+Brønderslev;Gift/separeret;2020K3;14706
+Brønderslev;Enke/enkemand;2020K3;2154
+Brønderslev;Fraskilt;2020K3;3134
+Frederikshavn;Ugift;2020K3;24745
+Frederikshavn;I alt;2020K3;59353
+Frederikshavn;Gift/separeret;2020K3;24487
+Frederikshavn;Enke/enkemand;2020K3;4205
+Frederikshavn;Fraskilt;2020K3;5916
+Hjørring;Ugift;2020K3;28682
+Hjørring;I alt;2020K3;64450
+Hjørring;Gift/separeret;2020K3;25570
+Hjørring;Enke/enkemand;2020K3;3932
+Hjørring;Fraskilt;2020K3;6266
+Jammerbugt;Ugift;2020K3;16404
+Jammerbugt;I alt;2020K3;38357
+Jammerbugt;Gift/separeret;2020K3;16260
+Jammerbugt;Enke/enkemand;2020K3;2399
+Jammerbugt;Fraskilt;2020K3;3294
+Læsø;Ugift;2020K3;607
+Læsø;I alt;2020K3;1776
+Læsø;Gift/separeret;2020K3;752
+Læsø;Enke/enkemand;2020K3;199
+Læsø;Fraskilt;2020K3;218
+Mariagerfjord;Ugift;2020K3;18150
+Mariagerfjord;I alt;2020K3;41687
+Mariagerfjord;Gift/separeret;2020K3;17082
+Mariagerfjord;Enke/enkemand;2020K3;2504
+Mariagerfjord;Fraskilt;2020K3;3951
+Morsø;Ugift;2020K3;8804
+Morsø;I alt;2020K3;20214
+Morsø;Gift/separeret;2020K3;8096
+Morsø;Enke/enkemand;2020K3;1432
+Morsø;Fraskilt;2020K3;1882
+Rebild;Ugift;2020K3;13751
+Rebild;I alt;2020K3;30359
+Rebild;Gift/separeret;2020K3;12704
+Rebild;Enke/enkemand;2020K3;1519
+Rebild;Fraskilt;2020K3;2385
+Thisted;Ugift;2020K3;18757
+Thisted;I alt;2020K3;43383
+Thisted;Gift/separeret;2020K3;18046
+Thisted;Enke/enkemand;2020K3;2822
+Thisted;Fraskilt;2020K3;3758
+Vesthimmerlands;Ugift;2020K3;16158
+Vesthimmerlands;I alt;2020K3;36647
+Vesthimmerlands;Gift/separeret;2020K3;14762
+Vesthimmerlands;Enke/enkemand;2020K3;2336
+Vesthimmerlands;Fraskilt;2020K3;3391
+Aalborg;Ugift;2020K3;118694
+Aalborg;I alt;2020K3;217316
+Aalborg;Gift/separeret;2020K3;70902
+Aalborg;Enke/enkemand;2020K3;9830
+Aalborg;Fraskilt;2020K3;17890
