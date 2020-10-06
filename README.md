@@ -2,7 +2,7 @@
 
 Week 1:
 
-https://notebooks.gesis.org/binder/jupyter/user/cprejler-dat4python-jy3ps66f/tree
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cprejler/dat4python/master?filepath=exercise_01)
 
 Week 2:
 
