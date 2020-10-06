@@ -5,6 +5,7 @@ Week 1:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cprejler/dat4python/master?filepath=exercise_01)
 
 Week 2:
+Note: har ikke kunne få filerne til at virke med en .ipynb fil med sysargs..
 
 https://mybinder.org/v2/gh/cprejler/dat4python/master?filepath=%2Fexercise_02%2F
 
