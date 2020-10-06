@@ -2,15 +2,18 @@
 
 Week 1:
 
-https://notebooks.gesis.org/binder/jupyter/user/cprejler-dat4python-jy3ps66f/tree
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cprejler/dat4python/master?filepath=exercise_01)
 
 Week 2:
+Note: har ikke kunne få filerne til at virke med en .ipynb fil med sysargs..
 
-https://mybinder.org/v2/gh/cprejler/dat4python/master?filepath=%2Fexercise_02%2F
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cprejler/dat4python/master?filepath=exercise_02)
 
 Week 3:
 
-https://mybinder.org/v2/gh/cprejler/dat4python/master?filepath=exercise_03
+Note: Ufærdig opgave grundet jeg havde en underlig bug på en class metode jeg stirrede mig blind i...
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cprejler/dat4python/master?filepath=exercise_03)
 
 Week 4:
 https://mybinder.org/v2/gh/cprejler/dat4python/master?filepath=%2Fexercise_04
