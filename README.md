@@ -12,6 +12,7 @@ Note: har ikke kunne få filerne til at virke med en .ipynb fil med sysargs..
 Week 3:
 
 Note: Ufærdig opgave grundet jeg havde en underlig bug på en class metode jeg stirrede mig blind i...
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cprejler/dat4python/master?filepath=exercise_03)
 
 Week 4:
