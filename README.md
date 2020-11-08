@@ -30,3 +30,7 @@ Week 6:
 Week 7:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cprejler/dat4python/master?filepath=exercise_07)
+
+Week 8: 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cprejler/dat4python/HEAD?filepath=exercise_08)
